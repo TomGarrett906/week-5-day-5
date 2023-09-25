@@ -94,4 +94,4 @@ BEGIN
 END;
 
 
-SELECT insert_salesperson('James', 'May');
+CALL insert_salesperson('James', 'May');
